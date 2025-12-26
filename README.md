@@ -1,9 +1,8 @@
-# Energy-Consumption-Analysis
-This SQL project analyzes energy consumption data to identify usage patterns, peak demand periods, and efficiency gaps. It involves cleaning and structuring datasets, performing aggregations, and analyzing trends across time and regions. The project supports data-driven decisions for optimizing energy use and improving sustainability.
+ # 📊 Energy Consumption Analysis
+# ER Diagram
 
 ![ER Diagram](https://github.com/user-attachments/assets/3c6aa303-3df0-431e-bc8e-75e1230d70bf)
 
- # 📊 Energy Consumption Analysis
  ## Business Problem
 
 Governments and international energy organizations manage extensive datasets related to energy production, consumption, emissions, population, and economic performance. Analyzing these datasets is essential to understand how energy usage evolves over time and how it relates to economic growth and environmental impact. This project uses SQL-based analysis to examine energy trends, compare countries fairly using per-capita and ratio-based metrics, and support data-driven decision-making for sustainable energy planning.
